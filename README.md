@@ -54,5 +54,5 @@ Enjoy exploring Little Lemon and have a delightful experience!
   
 ## Author
 Khawar Khan
-   
-
+<br />
+LinkedIn: www.linkedin.com/in/khawar-khan
